@@ -11,3 +11,13 @@ what needs your immediate attention and what tasks you can leave until a little 
 This Project would not only help us to develop time management skills to perform our task in an efficient manner in order to obtain best results.
 The Tasks can be added as per user requirements and then can be deleted when the task is a accomplished.
 
+
+
+localhost:3000
+open hyper terminal
+
+enter command npm install
+
+
+then start npm
+
